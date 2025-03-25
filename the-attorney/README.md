@@ -1,4 +1,4 @@
-# 🧑🏻‍⚖️ The Attorney
+# 🧑🏻‍⚖️ The Attorney 2
 
 <div align="center">
 <img src="https://github.com/portfolio-projetos-dev/kino/raw/main/.gitassets/capa.png" width="350" />
